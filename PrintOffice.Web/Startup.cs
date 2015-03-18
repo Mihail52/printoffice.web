@@ -15,6 +15,9 @@ namespace PrintOffice.Web
         {
             ConfigureAuth(app);
 
+
+
+
         }
     }
 }
